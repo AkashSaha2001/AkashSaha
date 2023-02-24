@@ -10,11 +10,11 @@
 
 ## Sections 📚
 ✔️ Home\
-✔️ About mme\
+✔️ About me\
 ✔️ Skills \
 ✔️ Interest\
 ✔️ Projects \
-✔️ Resume
+✔️ Resume \
 ✔️ Contact \
 
 To view a live example, **[click here](https://akashsaha2001.github.io/AkashSaha/)**
