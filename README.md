@@ -15,7 +15,7 @@
 ✔️ Interest\
 ✔️ Projects \
 ✔️ Resume \
-✔️ Contact \
+✔️ Contact 
 
 To view a live example, **[click here](https://akashsaha2001.github.io/AkashSaha/)**
 
